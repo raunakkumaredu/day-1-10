@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7efd2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.large-outer-box{
+    width: 600px;
+    height: 600px;
+    border: 5px solid #333;
+    background-color: #ffcccb;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 20px;
+}
+
+.small-box {
+    width: 150px;
+    height: 150px;
+    border: 20px solid #475c6c;
+    background-color: #cd8b62;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

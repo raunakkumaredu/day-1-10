@@ -1,0 +1,8 @@
+.box {
+    background-color: rgb(217, 201, 232);
+    padding: 50px;
+    border: 20px dashed rgb(153, 153, 190);
+}
+#box{
+    background-color: orange;
+}
